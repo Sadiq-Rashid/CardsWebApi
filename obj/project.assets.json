@@ -5937,11 +5937,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Cards\\Cards\\Cards.csproj",
+      "projectUniqueName": "D:\\Cards\\Cards.csproj",
       "projectName": "Cards",
-      "projectPath": "D:\\Cards\\Cards\\Cards.csproj",
+      "projectPath": "D:\\Cards\\Cards.csproj",
       "packagesPath": "C:\\Users\\sadiq.rashid\\.nuget\\packages\\",
-      "outputPath": "D:\\Cards\\Cards\\obj\\",
+      "outputPath": "D:\\Cards\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sadiq.rashid\\AppData\\Roaming\\NuGet\\NuGet.Config",

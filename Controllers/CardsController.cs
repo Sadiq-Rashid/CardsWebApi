@@ -130,7 +130,6 @@ namespace Cards.Controllers
         
         }
 
-
         //[Authorize(Roles = "Member, Admin")]
         [HttpPut("update/{id}")]
         public async Task<IActionResult> UpdateCard(Guid id, [FromBody] CardDto cardUpdateDto)
@@ -159,8 +158,6 @@ namespace Cards.Controllers
 
             return Ok("Record Updated Successfully"); // Updated successfully
         }
-
-
 
         [Authorize]
         [HttpDelete("delete/{id}")]

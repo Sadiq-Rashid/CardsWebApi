@@ -89,13 +89,6 @@ namespace Cards.Services
                             .ToListAsync();
         }
 
-        
-
-
-
-
-
-
         private static void ApplyFilters(ref IQueryable<Card> query, string name, string color, string status, DateTime? CreatedAt)
         {
             if (!string.IsNullOrEmpty(name))
